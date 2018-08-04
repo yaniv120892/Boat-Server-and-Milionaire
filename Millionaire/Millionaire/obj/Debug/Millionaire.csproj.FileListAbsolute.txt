@@ -1,0 +1,17 @@
+C:\Users\muszk\RiderProjects\Millionaire\Millionaire\bin\Debug\Millionaire.exe
+C:\Users\muszk\RiderProjects\Millionaire\Millionaire\bin\Debug\Millionaire.pdb
+C:\Users\muszk\RiderProjects\Millionaire\Millionaire\obj\Debug\Millionaire.csprojResolveAssemblyReference.cache
+C:\Users\muszk\RiderProjects\Millionaire\Millionaire\obj\Debug\Millionaire.exe
+C:\Users\muszk\RiderProjects\Millionaire\Millionaire\obj\Debug\Millionaire.pdb
+C:\Users\daye\Desktop\Millionaire\Millionaire\obj\Debug\Millionaire.exe
+C:\Users\daye\Desktop\Millionaire\Millionaire\obj\Debug\Millionaire.pdb
+C:\Users\daye\Desktop\Millionaire\Millionaire\bin\Debug\Millionaire.exe
+C:\Users\daye\Desktop\Millionaire\Millionaire\bin\Debug\Millionaire.pdb
+C:\Users\daye\Desktop\Millionaire\Millionaire\obj\Debug\Millionaire.csprojResolveAssemblyReference.cache
+C:\Users\ydaye\Desktop\Boat Millionaire 02-01\Millionaire\Millionaire\obj\Debug\Millionaire.exe
+C:\Users\ydaye\Desktop\Boat Millionaire 02-01\Millionaire\Millionaire\obj\Debug\Millionaire.pdb
+C:\Users\daye\Desktop\Boat Millionaire 03-01\Millionaire\Millionaire\obj\Debug\Millionaire.exe
+C:\Users\daye\Desktop\Boat Millionaire 03-01\Millionaire\Millionaire\obj\Debug\Millionaire.pdb
+C:\Users\daye\Desktop\Boat Millionaire 03-01\Millionaire\Millionaire\bin\Debug\Millionaire.exe
+C:\Users\daye\Desktop\Boat Millionaire 03-01\Millionaire\Millionaire\bin\Debug\Millionaire.pdb
+C:\Users\daye\Desktop\Boat Millionaire 03-01\Millionaire\Millionaire\obj\Debug\Millionaire.csprojResolveAssemblyReference.cache
